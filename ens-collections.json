@@ -1491,9 +1491,9 @@
       "slug": "118elements",
       "description": "The 118 elements.",
       "twitter": "",
-      "website" "",
-      "chat" "",
-      "logo" "",
+      "website":"",
+      "chat" :"",
+      "logo" :"",
       "csv": [
         "118elements.csv"
       ]
